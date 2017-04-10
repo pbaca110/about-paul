@@ -8,4 +8,4 @@
 		really not much to know about me lol.</p>
 	</body>
 </html>
-<img src= images/lol.jpg alt="lol"/>
+<img src= "images/lol.jpg" alt="lol"/>
